@@ -1,0 +1,22 @@
+STLink下载器连线：
+SWDIO -> MCU SWD
+GND ->MCU GND
+SWCLK -> MCU SWCLK
+3.3V -> MCU 3V3
+
+串口连线：
+RXD -> MCU PA9
+TXD -> MCU PA10
+GND -> MCU GND
+
+蓝牙HC-05连线：
+EN -> MCU PA7
+VCC -> MCU 5V
+GND -> MCU GND
+TXD -> MCU PB11
+RXD -> MCU PB10
+STATE -> MCU PA5
+
+心电信号模拟输入引脚：PA1
+
+
